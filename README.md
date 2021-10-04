@@ -39,7 +39,7 @@
 
 ## 영상
 
-[프립 구현 영상](http://www.youtube.com)
+[프립 구현 영상](https://www.youtube.com/watch?v=HCuxxzqOLsM)
 
 
 
